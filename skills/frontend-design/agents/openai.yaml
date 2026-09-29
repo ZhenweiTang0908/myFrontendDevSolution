@@ -1,0 +1,6 @@
+interface:
+  display_name: "Frontend Design"
+  short_description: "Build pages from a validated personal design system"
+  default_prompt: "Use $frontend-design to design and implement this frontend from a registered profile and Golden Example."
+policy:
+  allow_implicit_invocation: true

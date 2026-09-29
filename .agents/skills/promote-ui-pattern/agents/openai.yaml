@@ -1,0 +1,6 @@
+interface:
+  display_name: "Promote UI Pattern"
+  short_description: "Generalize a proven change into the frontend system"
+  default_prompt: "Use $promote-ui-pattern to evaluate this project change and promote only its reusable design improvement."
+policy:
+  allow_implicit_invocation: false
